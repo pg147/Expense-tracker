@@ -35,16 +35,19 @@ select {
   border: 1px solid #ddd;
   border-radius: 4px;
   font-size: 1rem;
+  margin-top: 12px;
 }
 
 .add-btn {
   background-color: #4caf50;
   color: white;
+  width: 100%;
   padding: 12px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
   font-size: 1rem;
+  margin-top: 16px;
   transition: background-color 0.3s;
 }
 
@@ -59,7 +62,7 @@ select {
 .expense-table {
   width: 100%;
   border-collapse: collapse;
-  margin-top: 10px;
+  margin-top: 20px;
   background-color: white;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
